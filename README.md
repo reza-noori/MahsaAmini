@@ -26,4 +26,4 @@
 In memory of <b>Mahsa Amini</b>
 <br>
 <br>
-<p style="font-style:italic">Killed in Iran because of extreme Islamic beliefs</p>
+<p style='font-style: italic;'>Killed in Iran because of extreme Islamic beliefs</p>
