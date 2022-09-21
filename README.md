@@ -23,6 +23,7 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣅⢂⠿⠁⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 
-In memory of Mahsa Amini
+In memory of <b>Mahsa Amini</b>
 <br>
-Killed in Iran because of extreme Islamic beliefs
+<br>
+<p style="font-style:italic">Killed in Iran because of extreme Islamic beliefs</p>
